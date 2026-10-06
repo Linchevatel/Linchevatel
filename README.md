@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Linchevatel/Linchevatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Linchevatel/hyperion-browser/main/assets/social-preview.png" alt="Hyperion" width="900" />
 
-Here are some ideas to get you started:
+# Linchevatel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **Hyperion** — an open-source Chromium profile manager for Linux and Windows.
+
+<a href="https://github.com/Linchevatel/hyperion-browser">GitHub</a> ·
+<a href="https://github.com/Linchevatel/hyperion-browser/releases">Releases</a> ·
+<a href="https://github.com/Linchevatel/hyperion-browser/discussions">Discussions</a>
+
+</div>
+
+## Current project
+
+Hyperion brings separate browser profiles, proxy configuration, extensions, cookie tools and configurable fingerprint settings into one desktop app.
+
+- Open-source Electron UI
+- Chromium patches for fingerprint-related settings
+- Linux and Windows packages
+- English and Russian interfaces
+
+## Links
+
+- Repository: https://github.com/Linchevatel/hyperion-browser
+- Releases: https://github.com/Linchevatel/hyperion-browser/releases
+- Feedback: https://github.com/Linchevatel/hyperion-browser/discussions
